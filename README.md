@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding & gaming
 - 🌱 I’m currently learning full stack web development 
 - 📫 How to reach ig- _itsmudit
-- Aurthor - Mudit
+- ✒️ Aurthor - Mudit
 
 <!---
 Mudit148/Mudit148 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
