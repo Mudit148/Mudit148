@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mudit
-- 👀 I’m interested in coding & gaming
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning full stack web development 
 - 📫 How to reach me (ig - _itsmudit)
 -   Coding is ❤️
